@@ -1,0 +1,16 @@
+		 ================BunsTalk================== 
+				 Bill Recipt
+
+ 		Num Item 					qty		U.Price		Total
+		1. Chocolate Gateaux      			1		1800		1800
+		2. Vanila Cake            			2		1650		3300
+
+
+					 Sum Total : 				5100
+
+					 Cash : 				6000
+
+					 Balance : 				900
+
+
+				 Thank You Come Again
